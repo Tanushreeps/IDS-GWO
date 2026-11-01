@@ -167,3 +167,5 @@ Example: `$env:IDS_DB_PATH = "$PWD\logs\demo.db"`. Restart relevant processes af
 - [Original documentation, retained as historical reference](docs/original/README-original.md)
 
 The original documentation may contain outdated paths and claims; this README and the current verification report take precedence. The system is demonstration-ready for the verified offline workflow, not certified, production-ready or guaranteed to detect every attack.
+
+Project maintained by Tanushreeps.
